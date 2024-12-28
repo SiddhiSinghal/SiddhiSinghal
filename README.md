@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Siddhi Singhal</h1>
-<h3 align="center">🌟 Welcome to my GitHub! 🚀 Here, you'll find a collection of projects that showcase my passion for problem-solving, innovation, and building impactful solutions.</h3>
+<h1 align="center">HELLO, I'm Siddhi Singhal</h1>
+<p >
+ <h3 align="left">🌟 Welcome to my GitHub! 🚀 Here, you'll find a collection of projects that showcase my passion for problem-solving, innovation, and building impactful solutions.</h3>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBnamxqNHhkNGp1eGc5NzI4ZXQzOXgzZTYwYXJ6OTdyMjlzdXh2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
+</p>
 
 
-## Connent With Me
+### Connent With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-singhal/) 
 [![Profile Views](https://komarev.com/ghpvc/?username=SiddhiSinghal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/SiddhiSinghal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](singhalsiddhi5@gmail.com)
 
-## 💻 Tech Stack
+### Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,9 +38,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+### GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -50,7 +51,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </a>
 </div>
-</details>
 
 ## GitHub Stats
 
